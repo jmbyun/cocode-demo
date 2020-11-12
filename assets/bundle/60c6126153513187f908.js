@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{657:function(t,e,n){"use strict";n.r(e),e.default="function styleForms() {\n  $('.styled-form input[type=text],input[type=password],input[type=email],input[type=tel],input[type=number]').addClass('input');\n  $('.styled-form textarea').addClass('textarea');\n  $('.styled-form select').wrap('<div class=\"select\"></div>');\n  $('.styled-form input[type=radio]').parent().addClass('radio').unwrap();\n}\n\nwindow.addEventListener('load', styleForms);"}}]);
+//# sourceMappingURL=6.js.map
