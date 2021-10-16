@@ -3,7 +3,8 @@
 This is a demo website that shows Cocode system in action. 
 To serve as a static website with GitHub Pages, some of the Cocode's features are omitted in this demo.
 
-Visit [Jeongmin Byun's website](http://jeongmin.byun.me/) to see more interesting projects.
+- Read the paper "[Cocode: Providing Social Presence with Co-learner ScreenSharing in Online Programming Classes](https://drive.google.com/file/d/1WFXjpsuXANGPvBnq3rEbWPvQBGNfLSk8/view?usp=sharing)"
+- Visit [Jeongmin Byun's website](http://jeongmin.byun.me/) to see more interesting projects.
 
 ## Cocode?
 
